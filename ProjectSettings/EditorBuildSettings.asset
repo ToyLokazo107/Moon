@@ -4,6 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Luna-Artemis/Scenes/MainMenu.unity
+    guid: 4f3deb8712bf67b4a9b93c8806dc95b1
+  - enabled: 1
+    path: Assets/Luna-Artemis/Scenes/Tutorial.unity
+    guid: a5956855e56bdaa42b4789b48476866a
+  - enabled: 1
+    path: Assets/Luna-Artemis/Scenes/GameScene.unity
+    guid: 01bad1aecd3c7674bb6de86db58763d3
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
